@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enes Birisik</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Middleware**
+- 🔭 I’m currently working on **Back End**
 
 - 🌱 I’m currently learning **Spring Framework, Microservices and JavaScript**
 
